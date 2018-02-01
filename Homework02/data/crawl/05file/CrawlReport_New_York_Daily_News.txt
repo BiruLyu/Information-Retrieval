@@ -1,0 +1,45 @@
+Name: Biru Lyu
+USC ID: 1810570267
+News site crawled: http://www.nydailynews.com/
+ 
+Fetch Statistics
+================
+# fetches attempted: 19982
+# fetches succeeded: 19559
+# fetches aborted or failed: 423
+ 
+Outgoing URLs:
+================
+Total URLs extracted:  2057634
+# unique URLs extracted:  185059
+# unique URLs within News Site:  84021
+# unique URLs outside News Site:  101038
+ 
+Status Codes:
+=============
+200 OK: 19559
+301 Moved Permanently: 407
+302 Found: 1
+404 Not Found: 7
+410 Gone 8
+ 
+File Sizes:
+================
+< 1KB: 0
+1KB ~ <10KB: 1
+10KB ~ <100KB: 16038
+100KB ~ <1MB: 3516
+>= 1MB: 0
+ 
+Content Types:
+================
+text/html: 19552
+image/gif: 0
+image/jpeg: 0
+image/png: 0
+application/pdf: 0
+
+# There are also 3 text/xml files and their url are follow(can't be filtered out) 
+# http://www.nydailynews.com/cmlink/local-rss-article-1.2908118?localLinksEnabled=false
+# http://www.nydailynews.com/cmlink/entertainment-rss-article-1.2908114?localLinksEnabled=false
+# http://www.nydailynews.com/cmlink/local-rss-article-1.959303?localLinksEnabled=false
